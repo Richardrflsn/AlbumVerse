@@ -38,4 +38,4 @@ OR download application and image testing here : https://drive.google.com/drive/
 
 # License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
