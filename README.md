@@ -36,6 +36,11 @@ OR download application and image testing here : https://drive.google.com/drive/
 2. Point your camera at the cover image of a supported music album.
 3. Watch as the album artwork comes to life in 3D!
 
+# Screenshot
+Playing Lauv Album - Never Not <br>
+<img width="162" alt="Screenshot 2024-06-30 at 22 57 09" src="https://github.com/Richardrflsn/AlbumVerse/assets/105922097/5592affc-c5ba-47df-96d1-c79a49b55282">
+
+
 # License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
